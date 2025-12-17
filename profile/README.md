@@ -1,4 +1,4 @@
-# MSRA Sim&Control
+# MSRA Sim
 
 <img src="./.images//AgiBot_G1_omnipicker.png" alt="AgiBot G1 Omnipick"/>
 
